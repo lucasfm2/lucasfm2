@@ -1,7 +1,6 @@
 ## Olá sou o Lucas Fernandes 👋
 
 
-- 🌱 I’m currently learning PHP
 
 
 
